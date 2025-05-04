@@ -232,10 +232,10 @@ nav .nav-links a {
 #decoration {
     position: relative;
     text-align: center;
+    transform: translate(-25%);
     margin-top: -103px;
     margin-bottom: 30px;
     z-index: 5; /* Ensures the image appears above other content */
-    transform: translate(-25%);
 }
 
 .decorative-image {
