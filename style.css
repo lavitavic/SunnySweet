@@ -232,7 +232,7 @@ nav .nav-links a {
 #decoration {
     position: relative;
     text-align: center;
-    margin-top: -83px;
+    margin-top: -88px;
     margin-bottom: 15px;
     z-index: 5; /* Ensures the image appears above other content */
     transform: translate(-25%);
