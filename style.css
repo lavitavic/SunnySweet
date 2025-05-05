@@ -63,10 +63,10 @@ nav .nav-links a {
     display: flex;
     align-items: flex-start; 
     justify-content: center;
-    padding-top:0px;
+    padding-top: 80px;
     color: white;
     text-align: center;
-    padding-bottom: 30px;
+    padding-bottom: 60px;
 }
 
 .home-content {
