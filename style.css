@@ -92,6 +92,10 @@ nav .nav-links a {
     margin-top: 18px;
 }
 
+.home-content h6{
+    margin-top: 10px;
+}
+
 .home-content .glowing-text{
     margin-top:-35px;
      font-family: cherry bomb one;
